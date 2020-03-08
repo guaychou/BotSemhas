@@ -6,7 +6,7 @@ Download binary in Release page
 
 How To Run
 ```cassandraql
-$ chmod 755 ./botSemhasPkl
+$ chmod 755 ./botSemhas
 $ ./botSemhas --nama=<Nama> --nim=<Nim> --dokument=<nomerDokumentSemhas> --time=<waktuPendaftaran>
 
 Usage of ./botSemhas:
