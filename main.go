@@ -35,7 +35,7 @@ func main() {
 	jam:=int(jam64)
 	menit64,_:=strconv.ParseInt(timeValues[1],10,0)
 	menit:=int(menit64)
-    fmt.Println("Waiting for the time to execute . . . ")
+        fmt.Println("Waiting for the time to execute . . . ")
 	for h!=jam || m!=menit{
 		h, m, _ = time.Now().Clock()
 		//log.Println(time.Now())
