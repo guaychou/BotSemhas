@@ -10,7 +10,7 @@ $ chmod 755 ./botSemhasPkl
 $ ./botSemhas --nama=<Nama> --nim=<Nim> --dokument=<nomerDokumentSemhas> --time=<waktuPendaftaran>
 
 Usage of ./botSemhas:
--dokumen string
+  -dokumen string
         Nomor Dokumen undangan semhas 
         Contoh: 279/UN10.F15.11/PP/2020
   -nama string
