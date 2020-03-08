@@ -27,7 +27,7 @@ Usage of ./botSemhas:
 Example
 
 ``` 
-$ ./botSemhas  --nama="John Doe" --nim=16515020xxxxxxx --dokumen=899/UN20.D5.11/PX/20202 --time=15.00
+$ ./botSemhas  --nama="John Doe" --nim=16515020xxxxxxx --dokumen=899/UN20.D5.11/PX/20202 --time=1.40
 ```
 
 Output Example
