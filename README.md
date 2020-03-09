@@ -13,6 +13,8 @@ Usage of ./botSemhas:
   -dokumen string
         Nomor Dokumen undangan semhas 
         Contoh: 279/UN10.F15.11/PP/2020
+  -help
+        prints usage of Lordchou Semhas Bot
   -nama string
         Nama mahasiswa 
         Contoh: John Doe
@@ -22,6 +24,8 @@ Usage of ./botSemhas:
   -time string
         Waktu embukaan audiensi semhas
         Contoh: 15.00
+  -version
+        prints current Lordchou Semhas Bot Version
 ```
 
 Example
