@@ -22,7 +22,7 @@ Usage of ./botSemhas:
         Nomer Induk Mahasiswa 
         Contoh: 16515020xxxxxxx
   -time string
-        Waktu embukaan audiensi semhas
+        Waktu pembukaan audiensi semhas
         Contoh: 15.00
   -version
         prints current Lordchou Semhas Bot Version
