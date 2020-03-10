@@ -22,7 +22,7 @@ func main() {
 	namaPtr := flag.String("nama", "", "Nama mahasiswa \nContoh: John Doe")
 	nimPtr := flag.String("nim", "", "Nomer Induk Mahasiswa \nContoh: 16515020xxxxxxx")
 	dokumenPtr := flag.String("dokumen", "", "Nomor Dokumen undangan semhas \nContoh: 279/UN10.F15.11/PP/2020")
-	timePtr:=flag.String("time", "", "Waktu embukaan audiensi semhas\nContoh: 15.00")
+	timePtr:=flag.String("time", "", "Waktu pembukaan audiensi semhas\nContoh: 15.00")
 	version := flag.Bool("version", false, "prints current Lordchou Semhas Bot Version")
 	help := flag.Bool("help", false, "prints usage of Lordchou Semhas Bot")
 	flag.Parse()
