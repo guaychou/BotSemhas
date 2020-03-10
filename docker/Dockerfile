@@ -8,7 +8,7 @@ RUN adduser -S -D -H -h /app appuser
 
 
 FROM alpine:3.11
-LABEL maintainer="Kevinchou kevin.harnanta@gmal.com"
+LABEL maintainer="Kevinchou kevin.harnanta@gmail.com"
 ENV TZ="Asia/Jakarta"
 # Import from builder.
 COPY --from=builder /etc/passwd /etc/passwd
